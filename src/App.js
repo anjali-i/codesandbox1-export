@@ -7,7 +7,7 @@ import Home from "./Home";
 import About from "./About";
 import Contact from "./Contact";
 import Products from "./Products";
-// import "./Loadering";
+import "./Loadering";
 
 export default function App() {
   return (
