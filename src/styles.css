@@ -1,0 +1,15 @@
+.container {
+  border-radius: 5px;
+  background-color: #d37c7c;
+  padding: 20px;
+}
+
+.container1 {
+  background-color: powderblue;
+}
+
+.container2 {
+  border-radius: 70px;
+  background-color: #eee8aa;
+  padding: 20px;
+}
